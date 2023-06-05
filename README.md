@@ -51,7 +51,7 @@ Adjust the bullet's speed, scale, and any other visual or behavioral aspects to 
 Remember to save and compile your Blueprints after making changes. Test the character to ensure the rifle is properly attached and that bullets spawn from the rifle when the fire action is triggered. You can also add additional functionality, like reloading or weapon switching, based on your game design.
 
 ## Output:
-![WhatsApp Image 2023-06-01 at 9 36 09 AM](https://github.com/durga46/EX1.game-programming/assets/75235704/f463c951-c057-4019-9615-dc2342281bf2)
+
 
 
 ## Result:
